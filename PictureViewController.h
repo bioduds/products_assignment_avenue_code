@@ -1,0 +1,13 @@
+//
+//  PictureViewController.h
+//  Products
+//
+//  Created by Administrador on 13/03/14.
+//  Copyright (c) 2014 Avenue Code. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface PictureViewController : UIViewController
+
+@end
